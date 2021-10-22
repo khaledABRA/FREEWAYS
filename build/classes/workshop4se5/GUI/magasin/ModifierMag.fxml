@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" fx:id="btn_actualiser" prefHeight="659.0" prefWidth="918.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="workshop4se5.GUI.magasin.ModifierMagController">
+    <stylesheets>
+        <URL value="@modifiermag.css" />
+    </stylesheets>
+   <children>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="295.0" layoutY="38.0" prefHeight="21.0" prefWidth="287.0" text="Modifier Magasin" textAlignment="CENTER">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <Label layoutX="28.0" layoutY="103.0" prefHeight="21.0" prefWidth="237.0" text="Enter la ref du magasin a modifier :" />
+      <TextField fx:id="txt_inputRefMag" layoutX="314.0" layoutY="98.0" />
+      <Button fx:id="btn_actualiser" layoutX="521.0" layoutY="98.0" mnemonicParsing="false" onAction="#rechercheMagParRef" text="OK" />
+      <ListView layoutX="314.0" layoutY="178.0" prefHeight="200.0" prefWidth="415.0" />
+   </children>
+</AnchorPane>

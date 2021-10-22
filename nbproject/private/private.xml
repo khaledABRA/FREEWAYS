@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/RecherMag.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/ModifierMag.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/test/Workshop4SE5.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/MagasinController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/ModifierMagController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/services/ServiceArticle.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/article/Article.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/services/ServicePanier.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/article/articlefxml.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/entites/Magasin.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/AjouterMag.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/utils/Myconnexion.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/AfficherMagController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/supprimermag.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/entites/Article.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/rechermag.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/SupprimerMag.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/modifiermag.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/Magasin.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/entites/Panier.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/affichermag.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/services/ServiceMagasin.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/SupprimerMagController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/ajoutermag.css</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/RecherMagController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/AfficherMag.fxml</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/AjouterMagController.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/services/IService.java</file>
+            <file>file:/C:/Users/khale/Desktop/pidev/workshop4SE5/src/workshop4se5/GUI/magasin/magasin.css</file>
+        </group>
+    </open-files>
+</project-private>
